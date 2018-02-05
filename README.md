@@ -1,5 +1,5 @@
 # Twitch Streamer Project
-
+![Screenshot](https://imgur.com/a/oul6O "Screnshot of the application")
 [Demo this project Here](https://codepen.io/stepup2stepout/pen/XeNKOj)
 
 Uses JavaScript, JQuery and the Twitch API.
